@@ -19,7 +19,7 @@ UtilityFunction:
 LongParameterList:
   enabled: false
 DuplicateMethodCall:
-  max_calls: 2
+  enabled: false
 IrresponsibleModule:
   enabled: false
 NestedIterators:

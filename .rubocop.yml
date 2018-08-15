@@ -102,3 +102,12 @@ Style/StringLiterals:
 
 Style/NegatedIf:
   Enabled: false
+
+Layout/SpaceAroundOperators:
+  Enabled: false
+
+Layout/ExtraSpacing:
+  Enabled: false
+
+Style/NumericPredicate:
+  Enabled: false

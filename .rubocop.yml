@@ -99,3 +99,6 @@ Style/TrivialAccessors:
 
 Style/StringLiterals:
   Enabled: false
+
+Style/NegatedIf:
+  Enabled: false

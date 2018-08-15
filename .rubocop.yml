@@ -96,3 +96,6 @@ Style/RedundantSelf:
 
 Style/TrivialAccessors:
   AllowPredicates: true
+
+Style/StringLiterals:
+  Enabled: false

@@ -111,3 +111,6 @@ Layout/ExtraSpacing:
 
 Style/NumericPredicate:
   Enabled: false
+
+Naming/UncommunicativeMethodParamName:
+  AllowedNames: [uf]

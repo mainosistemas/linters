@@ -112,5 +112,8 @@ Layout/ExtraSpacing:
 Style/NumericPredicate:
   Enabled: false
 
+Style/PercentLiteralDelimiters:
+  Enabled: false
+
 Naming/UncommunicativeMethodParamName:
   AllowedNames: [uf]

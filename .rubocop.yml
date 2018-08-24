@@ -115,5 +115,8 @@ Style/NumericPredicate:
 Style/PercentLiteralDelimiters:
   Enabled: false
 
+Layout/SpaceInLambdaLiteral:
+  EnforcedStyle: require_space
+
 Naming/UncommunicativeMethodParamName:
   AllowedNames: [uf]

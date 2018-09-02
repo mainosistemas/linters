@@ -120,3 +120,8 @@ Layout/SpaceInLambdaLiteral:
 
 Naming/UncommunicativeMethodParamName:
   AllowedNames: [uf]
+
+GlobalVars:
+  AllowedVariables:
+    - $redis
+    - $rollout

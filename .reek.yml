@@ -36,6 +36,8 @@ UnusedPrivateMethod:
   enabled: false
 NilCheck:
   enabled: false
+IrresponsibleModule:
+  enabled: false
 InstanceVariableAssumption:
   exclude:
     - !ruby/regexp /Controller$/

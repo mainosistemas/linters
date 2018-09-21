@@ -129,3 +129,6 @@ GlobalVars:
 UnderscorePrefixedVariableName:
   Enabled: false
 
+Style/TrailingComma:
+  Enabled: false
+

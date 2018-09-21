@@ -14,6 +14,7 @@ UncommunicativeVariableName:
   reject:
   - !ruby/regexp /^.$/
   - !ruby/regexp /[0-9]$/
+  - !ruby/regexp /^_/
 UtilityFunction:
   enabled: false
 LongParameterList:
